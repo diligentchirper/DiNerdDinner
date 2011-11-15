@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiNerdDinner", "DiNerdDinner\DiNerdDinner.csproj", "{CDB758D8-3C9E-4AE8-8C01-4D1CA8A2F2C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiNerdDinner.Tests", "DiNerdDinner.Tests\DiNerdDinner.Tests.csproj", "{D9FABDC5-312F-4680-8D7E-996EF09899DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB758D8-3C9E-4AE8-8C01-4D1CA8A2F2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB758D8-3C9E-4AE8-8C01-4D1CA8A2F2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB758D8-3C9E-4AE8-8C01-4D1CA8A2F2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB758D8-3C9E-4AE8-8C01-4D1CA8A2F2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9FABDC5-312F-4680-8D7E-996EF09899DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FABDC5-312F-4680-8D7E-996EF09899DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FABDC5-312F-4680-8D7E-996EF09899DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FABDC5-312F-4680-8D7E-996EF09899DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
